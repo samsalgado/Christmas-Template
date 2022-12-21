@@ -21,6 +21,9 @@
   width: 100%;
   text-align: center;
 }
+.pic1{
+  height: 45vmin;
+}
 .footer {
   width: 100%;
   flex-direction: row;
