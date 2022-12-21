@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ChristmasTemplate/static/css/main.022f2863.css",
-    "main.js": "/ChristmasTemplate/static/js/main.3fd1820f.js",
-    "static/js/787.acca8d9b.chunk.js": "/ChristmasTemplate/static/js/787.acca8d9b.chunk.js",
-    "static/media/tree1.jpg": "/ChristmasTemplate/static/media/tree1.0efa6dd67dbc48a3aef8.jpg",
-    "static/media/tree2.jpg": "/ChristmasTemplate/static/media/tree2.9c0f36130e19b5f5515e.jpg",
-    "static/media/tree6.jpg": "/ChristmasTemplate/static/media/tree6.7cdaf3d6e7e7509080c7.jpg",
-    "static/media/tree4.jpg": "/ChristmasTemplate/static/media/tree4.7b0081b24d17e7e8fb69.jpg",
-    "static/media/tree3.jpg": "/ChristmasTemplate/static/media/tree3.5a96e339045d54f9ab38.jpg",
-    "static/media/tree5.jpg": "/ChristmasTemplate/static/media/tree5.7d3fd2608043c8bc347a.jpg",
-    "static/media/download.jpg": "/ChristmasTemplate/static/media/download.b26750aa83b63b2210c0.jpg",
-    "index.html": "/ChristmasTemplate/index.html",
-    "main.022f2863.css.map": "/ChristmasTemplate/static/css/main.022f2863.css.map",
-    "main.3fd1820f.js.map": "/ChristmasTemplate/static/js/main.3fd1820f.js.map",
-    "787.acca8d9b.chunk.js.map": "/ChristmasTemplate/static/js/787.acca8d9b.chunk.js.map"
+    "main.css": "/christmas-edition-template-site/static/css/main.022f2863.css",
+    "main.js": "/christmas-edition-template-site/static/js/main.b057c0e3.js",
+    "static/js/787.acca8d9b.chunk.js": "/christmas-edition-template-site/static/js/787.acca8d9b.chunk.js",
+    "static/media/tree1.jpg": "/christmas-edition-template-site/static/media/tree1.0efa6dd67dbc48a3aef8.jpg",
+    "static/media/tree2.jpg": "/christmas-edition-template-site/static/media/tree2.9c0f36130e19b5f5515e.jpg",
+    "static/media/tree6.jpg": "/christmas-edition-template-site/static/media/tree6.7cdaf3d6e7e7509080c7.jpg",
+    "static/media/tree4.jpg": "/christmas-edition-template-site/static/media/tree4.7b0081b24d17e7e8fb69.jpg",
+    "static/media/tree3.jpg": "/christmas-edition-template-site/static/media/tree3.5a96e339045d54f9ab38.jpg",
+    "static/media/tree5.jpg": "/christmas-edition-template-site/static/media/tree5.7d3fd2608043c8bc347a.jpg",
+    "static/media/download.jpg": "/christmas-edition-template-site/static/media/download.b26750aa83b63b2210c0.jpg",
+    "index.html": "/christmas-edition-template-site/index.html",
+    "main.022f2863.css.map": "/christmas-edition-template-site/static/css/main.022f2863.css.map",
+    "main.b057c0e3.js.map": "/christmas-edition-template-site/static/js/main.b057c0e3.js.map",
+    "787.acca8d9b.chunk.js.map": "/christmas-edition-template-site/static/js/787.acca8d9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.022f2863.css",
-    "static/js/main.3fd1820f.js"
+    "static/js/main.b057c0e3.js"
   ]
 }
