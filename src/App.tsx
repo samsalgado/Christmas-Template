@@ -2,16 +2,16 @@ import React from 'react';
 import './App.css';
 import { Topbar } from './topbar';
 import { TreeTemplate } from './body';
-import footer from './footer';
 const App: React.FC =() => {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div>
+      <header>
         <Topbar />
       </header>
       <TreeTemplate />
+      <br />
       <footer>
-        <footer />
+        <h1 className="centerfooter">Merry Christmas</h1>
       </footer>
     </div>
   );

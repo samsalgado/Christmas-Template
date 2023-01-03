@@ -24,11 +24,29 @@
 .pic1{
   height: 45vmin;
 }
+.intro {
+  position:absolute;
+  font-size: xx-large;
+  size: portrait;
+  text-indent: 620px;
+}
 .footer {
   width: 100%;
   flex-direction: row;
   background-color: aquamarine;
   position: relative;
+}
+.centerfooter {
+  text-align: center;
+}
+footer {
+  background-color: aquamarine;
+}
+.logo{
+  align-items: left;
+  height: 10vmin;
+  width: fit-content;
+  position: absolute;
 }
 .center {
   text-align: center;
@@ -39,6 +57,7 @@
   width: 100%;
   background-color: white;
   flex-direction: row;
+  height: 10vmin;
 }
 .App-header {
   background-color: #282c34;

@@ -9,7 +9,6 @@ interface Props {
 export const Button: React.FC<Props> = ({
     border,
     height,
-    children,
     onClick,
     width
 }) => {
@@ -22,7 +21,7 @@ export const Button: React.FC<Props> = ({
             width
         }}
         >
-            {children}
+            
         </button>
     );
 }
